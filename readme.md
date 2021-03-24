@@ -3,4 +3,3 @@
 ## Screenshot
 
 ![GitHub Logo](/assets/Screenshot.png)
-Format: ![Alt Text](/assets/Screenshot.png)
